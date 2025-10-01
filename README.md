@@ -1,7 +1,6 @@
 ## ¡HOLA! 👋
 
-Me llamo Daniel Zanón Rodas y estoy cursando el grado superior DAW (Desarrollo de Aplicaciones Web).
-Ya he acabado el primer curso, y estoy cursando ahora el segundo.
+Me llamo Daniel Zanón Rodas y estoy cursando el segundo curso del grado superior DAW (Desarrollo de Aplicaciones Web).
 Además, estoy haciendo varios cursos para aprender todo lo que pueda que esté relacionado con la programación.
 
 - 🌱 Estoy aprendiendo Java, HTML, MySQL, entre otros lenguajes de programación.
